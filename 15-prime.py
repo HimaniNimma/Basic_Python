@@ -14,3 +14,4 @@ if result:
 else:
     print(f"{n} is not a prime")
 
+
