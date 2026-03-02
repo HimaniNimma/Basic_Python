@@ -1,3 +1,4 @@
+#Prime number or not using functions
 def is_prime(n):
     if n<=1:
         return False
@@ -12,3 +13,4 @@ if result:
     print(f"{n} is prime")
 else:
     print(f"{n} is not a prime")
+
