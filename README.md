@@ -36,7 +36,7 @@ Build a strong programming foundation</br>
 ▶️ How to Run the Programs</br>
 Install Python on your system</br>
 Clone this repository</br>
-git clone <your-repository-link></br>
+git clone <https://github.com/HimaniNimma/Basic_Python></br>
 Open the project folder</br>
 Run any Python file</br>
 python filename.py</br>
