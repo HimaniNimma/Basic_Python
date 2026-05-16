@@ -1,13 +1,13 @@
-Python Basics Repository 🚀
-
-Welcome to my Python Basics Repository!
-This repository contains simple Python programs created to practice and improve core programming concepts.
-
+Python Basics Repository 🚀</br>
+</br>
+Welcome to my Python Basics Repository!</br>
+This repository contains simple Python programs created to practice and improve core programming concepts.</br>
+</br>
 📌 About
 
-The programs in this repository cover beginner-friendly Python topics and basic problem-solving examples.
-These codes are useful for students, beginners, and anyone starting their Python journey.
-
+The programs in this repository cover beginner-friendly Python topics and basic problem-solving examples.</br>
+These codes are useful for students, beginners, and anyone starting their Python journey.</br>
+</br>
 📂 Programs Included
 Addition of Numbers
 Even or Odd Number
